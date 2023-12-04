@@ -11,7 +11,7 @@ del l[1]
 
 lib.print_python_list_info(l)
 
-l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], "Holberton"]
+l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], "cherif"]
 
 lib.print_python_list_info(l)
 
